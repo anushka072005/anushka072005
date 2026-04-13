@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/anushka-patkar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="/cdn-cgi/l/email-protection#a4c5cad1d7cccfc5d4c5d0cfc5d6909d93e4c3c9c5cdc88ac7cbc9"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/anushka072005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/anushka_patkar_07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <img src="https://komarev.com/ghpvc/?username=anushka072005&style=for-the-badge&color=blueviolet" alt="profile views"/>
 </p>
 
@@ -15,11 +16,12 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE @ Gyan Ganga College of Technology, Jabalpur | **8.63 CGPA**
+- 🎓 B.Tech CSE @ Gyan Ganga College of Technology, Jabalpur | **8.54 CGPA**
 - 🤖 Passionate about **Python Development, Frontend Development & AI/ML**
 - 🏆 **National Finalist** at IIT Bombay's NEC 2024
 - 💼 Former **AI Intern** @ Edunet Foundation (AICTE × Microsoft × SAP)
 - ⭐ **HackerRank 5★** in Python
+- 💡 **LeetCode 462+ problems solved** | 365 Days Badge | Rank 218K
 - 💼 Actively seeking Software Development opportunities | Open to Work
 - 📍 Jabalpur, Madhya Pradesh, India
 
