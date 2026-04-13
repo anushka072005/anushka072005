@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Anushka Patkar 👋</h1>
 
 <p align="center">
-  <b>Final-Year CSE Student • AI/ML Enthusiast • Frontend Developer</b><br/>
+  <b>Final-Year CSE Student • Python Developer • AI/ML Enthusiast</b><br/>
   <i>Building things that matter, one commit at a time 🚀</i>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anushka-patkar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anushkapatkar497@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="/cdn-cgi/l/email-protection#a4c5cad1d7cccfc5d4c5d0cfc5d6909d93e4c3c9c5cdc88ac7cbc9"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/anushka072005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=anushka072005&style=for-the-badge&color=blueviolet" alt="profile views"/>
 </p>
@@ -91,11 +91,5 @@
 
 <p align="center">
   If you're a recruiter, collaborator, or just someone who loves tech — feel free to reach out!<br/><br/>
-  <a href="mailto:anushkapatkar497@gmail.com">📧 anushkapatkar497@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/anushka-patkar/">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/anushka072005">🐙 GitHub</a>
-</p>
-
----
-
-<p align="center"><i>"Consistency beats perfection — ship it, improve it, repeat." 🔥</i></p>
+  <a href="/cdn-cgi/l/email-protection#a0c1ced5d3c8cbc1d0c1d4cbc1d2949997e0c7cdc1c9cc8ec3cfcd">📧 <span class="__cf_email__" data-cfemail="0e6f607b7d66656f7e6f7a656f7c3a37394e69636f6762206d6163">[email&#160;protected]</span></a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/anushka-patkar/">💼
