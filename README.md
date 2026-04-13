@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE @ Gyan Ganga College of Technology, Jabalpur | **8.54 CGPA**
+- 🎓 B.Tech CSE @ Gyan Ganga College of Technology, Jabalpur | **8.63 CGPA**
 - 🤖 Passionate about **Python Development, Frontend Development & AI/ML**
 - 🏆 **National Finalist** at IIT Bombay's NEC 2024
 - 💼 Former **AI Intern** @ Edunet Foundation (AICTE × Microsoft × SAP)
