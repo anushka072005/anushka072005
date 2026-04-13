@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Final-Year CSE Student • Python Developer • AI/ML Enthusiast</b><br/>
-  <i>Building things that matter, one commit at a time 🚀</i>
 </p>
 
 <p align="center">
@@ -77,19 +76,3 @@
 - ⭐ **5★ Python** on HackerRank
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushka072005&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka072005&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  If you're a recruiter, collaborator, or just someone who loves tech — feel free to reach out!<br/><br/>
-  <a href="/cdn-cgi/l/email-protection#a0c1ced5d3c8cbc1d0c1d4cbc1d2949997e0c7cdc1c9cc8ec3cfcd">📧 <span class="__cf_email__" data-cfemail="0e6f607b7d66656f7e6f7a656f7c3a37394e69636f6762206d6163">[email&#160;protected]</span></a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/anushka-patkar/">💼
