@@ -21,7 +21,7 @@
 - 🏆 **National Finalist** at IIT Bombay's NEC 2024
 - 💼 Former **AI Intern** @ Edunet Foundation (AICTE × Microsoft × SAP)
 - ⭐ **HackerRank 5★** in Python
-- 💡 **LeetCode 462+ problems solved** | 365 Days Badge | Rank 218K
+- 💡 **LeetCode 465+ problems solved** | 365 Days Badge | Rank 218K
 - 💼 Actively seeking Software Development opportunities | Open to Work
 - 📍 Jabalpur, Madhya Pradesh, India
 
